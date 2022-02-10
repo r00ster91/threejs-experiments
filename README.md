@@ -4,6 +4,8 @@ Experiments with [three.js](https://threejs.org/).
 
 Most of this is based on the book [Discover three.js](https://discoverthreejs.com/).
 
+![image](https://user-images.githubusercontent.com/35064754/153485650-dfdc19ce-d779-4ba1-9b9b-1c1aad25917e.png)
+
 # General Setup
 
 ```
