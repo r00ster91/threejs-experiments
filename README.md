@@ -23,3 +23,4 @@ npm run dev
 * https://discoverthreejs.com/book/first-steps/
 * https://discoverthreejs.com/book/appendix/
 * https://www.typescriptlang.org/docs/
+* https://services.math.duke.edu/courses/math_everywhere/assets/techRefs/Threejs%20Essentials.pdf
