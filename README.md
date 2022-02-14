@@ -12,8 +12,9 @@ Most of this is based on the book [Discover three.js](https://discoverthreejs.co
 npm init vite@latest threejs-getting-started # `vanilla` and `vanilla-ts`
 cd threejs-getting-started
 npm i
-npm i @types/three --save-dev # --save-dev because the types are
-                              # only required for development
+npm i @types/three --save-dev # `--save-dev` means it's only required for development
+npm install eslint --save-dev
+npm init @eslint/config
 npm run dev
 ```
 
