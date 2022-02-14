@@ -21,6 +21,7 @@ npm run dev
 # Resources
 
 * https://threejs.org/docs/
+* https://threejs.org/manual
 * https://discoverthreejs.com/book/first-steps/
 * https://discoverthreejs.com/book/appendix/
 * https://www.typescriptlang.org/docs/
